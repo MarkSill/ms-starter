@@ -1,5 +1,5 @@
 {
-	"name": "starter",
+	"name": "ms-starter",
 	"author": "MarkSill",
 	"version": "1.0.0",
 	"description": "Runs things using a Procfile and an envionment file.",
