@@ -1,0 +1,6 @@
+*.js.map
+*.ts
+.travis.yml
+test.js
+.env
+Procfile

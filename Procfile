@@ -1,0 +1,1 @@
+test: node test.js
