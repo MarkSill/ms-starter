@@ -5,8 +5,10 @@ import * as fs from "mz/fs";
 import * as readline from "readline";
 import * as child_process from "mz/child_process";
 
+import { version } from "./package.json";
+
 program
-	.version("1.0.0", "-v, --version")
+	.version(`v${version}`, "-v, --version")
 	.usage("[options] [procs...]")
 	.option("-p, --proc <file>", "Specify the Procfile to use", "Procfile")
 	.option("-e, --env <file>", "Specify the environment file to use", ".env")
