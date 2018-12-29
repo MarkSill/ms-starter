@@ -1,7 +1,7 @@
 {
 	"name": "ms-starter",
 	"author": "MarkSill",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Runs things using a Procfile and an envionment file.",
 	"license": "MIT",
 	"scripts": {
