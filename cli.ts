@@ -64,6 +64,7 @@ program
 				times = parseInt(sections[1]);
 			}
 			for (let i = 0; i < times; i++) {
+				console.log(`Running ${proc[p]} (${p})`);
 				let cmd = proc[p].split(" ");
 				let first = cmd.shift();
 				child_process.spawn(first, cmd, {
