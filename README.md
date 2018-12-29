@@ -1,4 +1,6 @@
 # ms-starter
+[![Build Status](https://travis-ci.org/MarkSill/ms-starter.svg?branch=master)](https://travis-ci.org/MarkSill/ms-starter)
+
 Run things from the command line using a Procfile and an environment file. Works like a simpler [node-forman](https://github.com/strongloop/node-foreman).
 
 ## Usage
