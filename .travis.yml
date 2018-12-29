@@ -9,5 +9,4 @@ deploy:
   api_key:
     secure: XyOQknzujLRh0+PbzP+UvvhpysYZvdJO4eJtqeIi/tnKj8nHE5hYsv5yTJ09oqCpcawbj2PjTTyKLZlzBcPSd9+ZexKManhCG/Uj7dT2P/5ppP0sPUQqg6Qre2zlNz53p4ayaIWOI7+QhSihDSFlPNzqJYjRAtwU0sRuhTrZ1xugTr6PI/FC0VQfl4a1WAYGcNn1B+t87yYOsu40PNCdHK0buNANEYY6OnEfVdynx2ZQYA55vL01jrjmBM53Zs7bLU2sQx3k7IXXdhnCvPUuNQFgF9VYjmsFMxAtGhuvWP+Di0xF6m3qVE+1nwha0fe5m2RNQ5Dj9XmebcLN1lLS51j2PV4we3FCoNEeQUmvSSrQtFVMIwVwyiRLh0e3AxcewV1kHzlxpzdyH+JOUneLnNDDvbUK8IWiT/wdInO0VATtkWp7IA+MX9i//g/M3ATzZc2/LHRpbwgQjyguiz2kkOdobWRVi15QWd9YPNteQlsYCfYCM7oh4FEUUpIGD+QEeHyZshLT+93//E2BJqrVJe44ik0+FqrMfMMC6fHZ3rk/PAo/0CIBPFQYHHwYhjLjpsy0Mu/LeFPmeVsLQvfbGgi2OlZxHnQL7zsGE9A45c8KR+LIWiA1MzC7uW/TJN44srE9ahPHCdaGARloKzEUPbXuCQhVwBgXK+ozAdsgOaw=
   on:
-    tags: true
     repo: MarkSill/ms-starter
