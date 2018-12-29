@@ -5,7 +5,7 @@
 	"description": "Runs things using a Procfile and an envionment file.",
 	"license": "MIT",
 	"scripts": {
-		"test": "node starter.js",
+		"test": "node cli.js",
 		"build": "tsc -p tsconfig.json",
 		"watch": "tsc -w -p tsconfig.json"
 	},
